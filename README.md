@@ -6,16 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## Required Versions
-
-npm 6.14.12\
-node v14.16.1
-
-## Create React App In Client Directory
-
-npx create-react-app client
-
 ### `npm start`
+
+## Install the Dependencies
+
+npm i react-router-dom react-bootstrap bootstrap
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
